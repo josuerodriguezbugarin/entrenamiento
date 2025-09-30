@@ -24,7 +24,8 @@ Las ***mariposas*** tienen muchos colores pero las hay sin colores
 ![imagen](https://media.tenor.com/QhzrCqFcVsoAAAAM/trying-not-to-laugh.gif)
 
 :sob:
-
+> [!WARNING!]
+> CUidado
 [Buscador](http://www.google.com)
 
 [Datos](datos.txt)
