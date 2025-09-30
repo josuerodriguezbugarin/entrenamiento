@@ -24,3 +24,5 @@ Las ***mariposas*** tienen muchos colores pero las hay sin colores
 [Buscador](http://www.google.com)
 
 [Datos](datos.txt)
+
+[maripo](imagenes/mariposa.txt)
