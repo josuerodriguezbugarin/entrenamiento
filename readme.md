@@ -21,6 +21,8 @@ Las ***mariposas*** tienen muchos colores pero las hay sin colores
 
 # lucy steel 
 
+![imagen](https://media.tenor.com/QhzrCqFcVsoAAAAM/trying-not-to-laugh.gif)
+
 [Buscador](http://www.google.com)
 
 [Datos](datos.txt)
