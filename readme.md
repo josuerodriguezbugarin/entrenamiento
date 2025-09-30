@@ -26,3 +26,5 @@ Las ***mariposas*** tienen muchos colores pero las hay sin colores
 [Datos](datos.txt)
 
 [maripo](imagenes/mariposa.txt)
+
+![piccolo](imagenes/piccolo.png)
