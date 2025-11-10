@@ -1,3 +1,6 @@
+# Desafío Git: Flujo de Trabajo Híbrido
+Este repositorio fue configurado con un flujo híbrido (clonado y remoto personal).
+
 # Titulo: Las mariposas
 
 ## Subtitulo: Colores
